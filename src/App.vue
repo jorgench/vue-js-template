@@ -1,7 +1,5 @@
 <script setup>
-import HelloWorld from "./components/HelloWorld.vue";
-
-const styr = "asdas";
+import HelloWorld from './components/HelloWorld.vue'
 </script>
 
 <template>
